@@ -1,4 +1,4 @@
-iclass StrategyExample:
+class StrategyExample:
 
     def __init__(self, func=None):
         if func:
